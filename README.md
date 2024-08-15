@@ -1,7 +1,7 @@
 ## ⚡ What's up! I'm Sriram ⚡
 
-I'm studying CS at udub. I'm interested in all things deep learning, reinforcement learning, and robotics.
-Always down to chat about projects and research.
+I'm studying CS at udub. I'm broadly interested in deep learning, reinforcement learning, and robotics.
+Always down to chat about projects and research. Many of my projects are in private repositories for now... 
 <!--
 **sriramk117/sriramk117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
