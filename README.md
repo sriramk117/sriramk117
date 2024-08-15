@@ -1,5 +1,7 @@
-## Hi there 👋
+## ⚡ What's up! I'm Sriram ⚡
 
+I'm studying CS at udub. I'm interested in all things deep learning, reinforcement learning, and robotics.
+Always down to chat about projects and research.
 <!--
 **sriramk117/sriramk117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
